@@ -1,9 +1,9 @@
 {
-    "name": "react-starter-template",
+    "name": "webrtc-rtc-peerzs-local-testing",
     "type": "module",
     "version": "0.0.0",
     "private": true,
-    "description": "Minimal React starter template with Vite, TypeScript, UnoCSS, and Zustand.",
+    "description": "Project that tests various WebRTC implementations for local testing of Peerzs",
     "author": {
         "name": "Denish Sharma",
         "email": "denishcommon@gmail.com"
@@ -11,23 +11,19 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/denishsharma/react-starter-template.git"
+        "url": "git+https://github.com/denishsharma/webrtc-peerzs-local-testing-react.get"
     },
     "bugs": {
-        "url": "https://github.com/denishsharma/react-starter-template/issues"
+        "url": "https://github.com/denishsharma/webrtc-peerzs-local-testing-react/issues"
     },
     "keywords": [
-        "starter",
-        "template",
-        "react",
-        "vite",
-        "typescript",
-        "unocss",
-        "zustand",
-        "tanstack",
-        "react-query",
-        "router",
-        "store"
+        "peerzs",
+        "webrtc",
+        "rtc",
+        "peer-to-peer",
+        "local",
+        "testing",
+        "xone-labs"
     ],
     "scripts": {
         "dev": "vite --host",
