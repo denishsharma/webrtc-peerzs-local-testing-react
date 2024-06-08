@@ -30,7 +30,7 @@
         "store"
     ],
     "scripts": {
-        "dev": "vite",
+        "dev": "vite --host",
         "build": "tsc && vite build",
         "lint": "eslint . --fix",
         "preview": "vite preview",
